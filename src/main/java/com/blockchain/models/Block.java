@@ -1,4 +1,4 @@
-package main.java.models;
+package com.blockchain.models;
 
 import java.util.LinkedList;
 

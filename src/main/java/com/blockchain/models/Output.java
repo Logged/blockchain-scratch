@@ -1,4 +1,4 @@
-package main.java.models;
+package com.blockchain.models;
 
 public class Output {
     private final String value;
